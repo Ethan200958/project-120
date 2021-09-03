@@ -1,0 +1,25 @@
+#lens {
+    width: 150px;
+    height: 150px;
+}
+
+#net {
+    font-size:large;
+}
+
+#glorious {
+    width: 260px;
+    height: 250px;
+}
+
+body {
+    text-align: center;
+}
+
+#model_O {
+    background-color: grey;
+    width: 50%;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    border-radius: 15px;
+}
